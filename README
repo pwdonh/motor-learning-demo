@@ -1,4 +1,4 @@
-This is psychopy demo task that I made for a class. It shows a reaching task under perturbation similar to what is often used in motor learning studies.
+This is a Psychopy demo task that I made for a class. It shows a reaching task under perturbation similar to what is often used in motor learning studies.
 
 The easiest way to install Psychopy is in a conda environment that can be built using the provided .yml file like this:
 
